@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="finished" />
+    <list default="true" id="25800241-fe20-4258-b87f-b36e9fd0e9c7" name="Changes" comment="finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +77,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -122,7 +125,7 @@
       <workItem from="1651629742786" duration="13543000" />
       <workItem from="1651651260900" duration="5125000" />
       <workItem from="1651672368239" duration="1158000" />
-      <workItem from="1651721053267" duration="893000" />
+      <workItem from="1651721053267" duration="2943000" />
     </task>
     <task id="LOCAL-00001" summary="finished">
       <created>1651721158492</created>

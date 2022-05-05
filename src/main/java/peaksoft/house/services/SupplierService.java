@@ -61,6 +61,8 @@ public class SupplierService implements AutoCloseable {
         Order order = entityManager.find(Order.class, orderId);
         if (supplier.getStatus().equals(SupplierStatus.FREE) && order.getStatus().equals(OrderStatus.REQUEST)) {
             supplier.addOrder(order);
+            Supplier supplier1 = entityManager.find(Supplier.class, supplierId);
+            supplier1.setStatus(BUSY);
         }
         entityManager.getTransaction().commit();
         entityManager.close();
